@@ -206,7 +206,7 @@ One of the benefits of using Express is that once our foundation is established,
 ```js
 const express = require('express');
 const getProducts = require('./getProducts');
-const getProduct = require('./getProduct);
+const getProduct = require('./getProduct');
 
 const app = express();
 
